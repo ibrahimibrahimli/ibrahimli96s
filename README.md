@@ -8,7 +8,7 @@
 
 ## My social media accounts 
 [![Linkedin Badge](https://img.shields.io/badge/-Ibrahimlii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahimlii//)](https://www.linkedin.com/in/ibrahimlii/)
-[![Instagram Badge](https://img.shields.io/badge/-ibrahimli%96-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ibrahimli%96/)]( https://www.instagram.com/ibrahimli_96/)
+[![Instagram Badge](https://img.shields.io/badge/-ibrahimli%96-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ibrahimli%96/)]( https://www.instagram.com/ibrahimli_96m/)
 [![Gmail Badge](https://img.shields.io/badge/-ibrahim217217@gmail.comm-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibrahim217217@gmail.com)](mailto:ibrahim217217@gmail.com)
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
