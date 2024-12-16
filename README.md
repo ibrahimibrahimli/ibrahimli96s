@@ -1,6 +1,6 @@
 <h1 align="center">I'm İbrahim</h1>
 <h3 align="center">I'm Full_Stack, .Net Core developer from Azerbaijan</h3>
-<img align="center" alt="Coding" width="850" src="https://photos.google.com/search/_tra_/photo/AF1QipO7x4LjUq4O7y4aZ2Tm6cWj464TbdFXwn7RKiK8">
+<img align="center" alt="Coding" width="850" src="https://photos.fife.usercontent.google.com/pw/AP1GczOa3PBdfhb6CWc64y4cCFZ0XyVDniRTaMtML9L4Okd7NJwjbJNRul45ow=w600-h338-s-no-gm?authuser=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimibrahimli&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimibrahimli" /> </p>
 
