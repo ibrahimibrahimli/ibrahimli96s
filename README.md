@@ -1,25 +1,23 @@
-# Hi there 👋
+<h1 align="center">Ben İbrahim</h1>
+<h3 align="center">Ben Azerbaycan'dan Full_Stack, .Net Core geliştiricisiyim</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimibrahimli&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimibrahimli" /> </p>
 
-<h1 align="center">Hi , I'm Ibrahim Ibrahimli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimibrahimli" alt="ibrahimibrahimli" /></a> </p>
 
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href="https://linkedin.com/tr/ibrahimlii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimlii" height="30" width="40" /></a>
+<a href="https://fb.com/ibrahim122596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahim122596" height="30" width="40" /></a>
+<a href="https://instagram.com/ibrahimli_27m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimli_27m" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dev_ibrahimlii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dev_ibrahimlii" height="30" width="40" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=F7ED1F&background=FAFF3500&center=true&vCenter=true&multiline=true&width=900&height=200&lines=Front-end+developer+1+%2B+year's++web+experience;Experienced+in+React+hooks+and+Redux+js+toolkit;Strongly+adapted+new+Framework+and+libraries;Passionate+about+web+development+and+programming)](https://git.io/typing-svg)
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="açısal" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="önyükleme" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" genişlik="40" yükseklik="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" genişlik="40" yükseklik="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" genişlik="40" yükseklik="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" genişlik="40" yükseklik="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" genişlik="40" yükseklik="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" genişlik="40" yükseklik="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## My social media accounts 
-[![Linkedin Badge](https://img.shields.io/badge/-Ibrahimlii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahimlii//)](https://www.linkedin.com/in/ibrahimlii/)
-[![Instagram Badge](https://img.shields.io/badge/-ibrahimli%96-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ibrahimli%96/)]( https://www.instagram.com/ibrahimli_96m/)
-[![Gmail Badge](https://img.shields.io/badge/-ibrahim217217@gmail.comm-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibrahim217217@gmail.com)](mailto:ibrahim217217@gmail.com)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimibrahimli&show_icons=true&locale=tr&layout=compact" alt="ibrahimibrahimli" /></p>
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimibrahimli&show_icons=true&locale=tr" alt="ibrahimibrahimli" /></p>
 
-
-
-
-## UPS my github user activity 🚀
-
-<br>
-
-![Rahman Niftaliyev's](https://github-readme-stats.vercel.app/api?username=ugurlumurquzov&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmaNiftaliyev&theme=tokyonight" alt="mystreak"/>
-![Rahman Niftaliyev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmaNiftaliyev&theme=tokyonight&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimibrahimli&" alt="ibrahimibrahimli" /></p>
