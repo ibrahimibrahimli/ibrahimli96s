@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimibrahimli&" alt="ibrahimibrahimli" /></p>
 
-https://github.com/ibrahimibrahimli/ibrahimibrahimli/blob/output/github-contribution-grid-snake.gif
+https://github.com/ibrahimibrahimli/ibrahimibrahimli/blob/output/github-contribution-grid-snake.svg
 
 
 
